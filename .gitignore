@@ -3,5 +3,6 @@ node_modules
 package-lock.json
 
 # Temp files
-laws
+raw
+tmp
 dist
